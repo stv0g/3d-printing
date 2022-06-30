@@ -1,10 +1,8 @@
 # 3D Printing Models
 
-![](netgear-m5-holder/netgear-m5-holder.jpg)
-
 ## Models
 
-- [Wallmount for Netear M5 Mobile 5G Router](./netgear-m5-holder/)
+- [Wallmount for Netear M5 Mobile 5G Router](./netgear-m5-wall-mount/)
 
 ## License
 

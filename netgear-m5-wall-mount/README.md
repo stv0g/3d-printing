@@ -1,12 +1,22 @@
 # Wallmount for Netear M5 Mobile 5G Router
 
+## Renders
+
+<img src="renders/1.png" width="30%" />
+<img src="renders/2.png" width="30%" />
+<img src="renders/3.png" width="30%" />
+
+## Assembled Mount
+
+<img src="netgear-m5-wall-mount.jpg" width="50%" />
+
 ## Antenna connectors
 
 This mount includes two holes at the bottom which align with the TS9 antenna connectors.
 
 I recommend to use TS9 to SMA adapters which can be screwed into those holes
 
-![](ts9-sma.jpg)
+<img src="ts9-sma.jpg" width="25%" />
 
 ### Sources
 
